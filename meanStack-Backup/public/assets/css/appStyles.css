@@ -1,0 +1,43 @@
+.form {
+    max-width: 850px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.formLarge{
+    max-width: 90%;
+    padding: 15px;
+    margin: 0 auto;
+}
+.eventCard{
+	background-color: rgba(247, 247, 247, 0.5);
+	margin-top: 5px;
+	margin-bottom:  5px;
+	transition: all 0.3s ease;
+    padding: 7px;
+}
+.eventCard:hover{
+	background-color: rgba(217, 217, 217, 0.4);
+    border-radius: 5px;
+}
+.fileApp{
+    height:250px;
+    width:250px;
+    float: left;
+    position: relative;
+}
+.cardFile{
+    display: inline-block;
+    overflow: hidden;
+    margin-top: 8px;
+    margin-right: 8px;
+    background-color: #fff;
+    border:2px solid #ccc;
+border-radius: 7px !important;
+}
+.btnEliminarImg{
+    float: left;
+    position: absolute;
+}
+.table{
+    background-color:rgba(0,0,0,0.3)
+}
